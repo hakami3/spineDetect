@@ -4,5 +4,5 @@
 
 ## 사용 기술
 ### Language : Python 3.7.0
-### Libaray : Tensorflow 1.12
+### Library : Tensorflow 1.12
 ### Tool : Anaconda 
